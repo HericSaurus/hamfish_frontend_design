@@ -1,0 +1,66 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: #c6c5c4;
+    color: #FFF;
+    padding: 1% 0;
+    font-size: 1.2em;
+    border: 0;
+}
+
+.navbar-brand {
+    float: left;
+    height: 80px;
+    width: auto;
+    padding: 0 15px 5px;
+}
+
+
+.user-login-profile-pic {
+    height: 80px;
+    width: auto;
+    padding: 0;
+}
+
+.fa-search {
+    color: #2d2e30;
+}
+
+
+.search-bar-mobile {
+    height: 20%;
+    font-size: 1.5rem;
+
+}
+
+/* search bar mobile -start */
+.active-cyan-2 input[type=text]:focus:not([readonly]) {
+    border-bottom: 1px solid #4dd0e1;
+    box-shadow: 0 1px 0 0 #4dd0e1;
+}
+
+.active-cyan input[type=text] {
+    border-bottom: 1px solid #4dd0e1;
+    box-shadow: 0 1px 0 0 #4dd0e1;
+}
+
+.active-cyan .fa,
+.active-cyan-2 .fa {
+    color: #4dd0e1;
+}
+
+/* search bar mobile -end */
+
+
+@media (max-width: 600px) {
+    .navbar-brand {
+        float: left;
+        height: 50px;
+    }
+
+    .user-login-profile-pic {
+        height: 50px;
+        width: auto;
+        padding: 0;
+    }
+}

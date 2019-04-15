@@ -1,0 +1,9 @@
+attempt to do css using Bootstrap WITHOUT components, do it from scratch
+
+
+
+search bar 
+preferable: 
+code pen search header
+simple in use
+https://mdbootstrap.com/docs/jquery/forms/search/
