@@ -10,3 +10,13 @@ https://mdbootstrap.com/docs/jquery/forms/search/
 
 
 Might want tinker with mid size screen on navbar, maybe toggle or not to toggle
+
+
+
+To change to a different breakpoint, we’d just need to swap out navbar-expand-md with one of these..
+
+navbar-expand = never collapses vertically (remains horizontal)
+navbar-expand-sm = collapses below sm widths <576px
+navbar-expand-md = collapses below md widths <768px
+navbar-expand-lg = collapses below lg widths <992px
+navbar-expand-xl = collapses below xl widths <1200px
