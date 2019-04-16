@@ -7,3 +7,6 @@ preferable:
 code pen search header
 simple in use
 https://mdbootstrap.com/docs/jquery/forms/search/
+
+
+Might want tinker with mid size screen on navbar, maybe toggle or not to toggle
